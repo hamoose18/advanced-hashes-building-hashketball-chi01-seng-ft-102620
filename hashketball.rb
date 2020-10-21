@@ -12,7 +12,7 @@ def game_hash
        assists: "12",
        steals: "3",
        blocks: "1",
-       slam_dunks: "1",
+       slam_dunks: "1"
      },
      {
        player_name: "Reggie Evans",
@@ -23,7 +23,7 @@ def game_hash
        assists: "12",
        steals: "12",
        blocks: "12",
-       slam_dunks: "7",
+       slam_dunks: "7"
      },
      {
        player_name: "Brook Lopez",
@@ -45,7 +45,7 @@ def game_hash
        assists: "6",
        steals: "3",
        blocks: "8",
-       slam_dunks: "5",
+       slam_dunks: "5"
      },
      {
        player_name: "Jason Terry",
@@ -56,9 +56,8 @@ def game_hash
        assists: "2",
        steals: "4",
        blocks: "11",
-       slam_dunks: "1",
-     },
-   }
+       slam_dunks: "1"
+     }
   ]
    }, 
  }, 
